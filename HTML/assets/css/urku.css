@@ -1159,7 +1159,7 @@ body {
 }
 
 .item-1 {
-  background-image: url("../img/Leandra_Rouse.png");
+  background-image: url("../img/Jamie's website 2.png");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
@@ -1168,7 +1168,7 @@ body {
 }
 
 .item-2 {
-  background-image: url("../img/Jamie's website 2.png");
+  background-image: url("../img/Leandra_Rouse.png");
 }
 
 .item-3 {
