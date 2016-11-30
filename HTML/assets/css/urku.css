@@ -1181,7 +1181,7 @@ body {
 }
 
 .item-5 {
-  background-image: url("../img/Scully/2.png");
+  background-image: url("../img/SWAT Factory.png");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-5 {
@@ -1199,15 +1199,15 @@ body {
 }
 
 .item-7 {
-  background-image: url("../img/Hilkemp/Hilkemp2.png");
+  background-image: url("../img/Argus Secure Tech.png");
 }
 
 .item-8 {
-  background-image: url("../img/cloud.png");
+  background-image: url("../img/E-commerce Freebird.png");
 }
 
 .item-9 {
-  background-image: url("../img/rsz_cloud.png");
+  background-image: url("../img/Freebird.png");
 }
 
 .item-10 {
@@ -1223,7 +1223,7 @@ body {
 }
 
 .item-13 {
-  background-image: url("../img/rsz_order_history.png");
+  background-image: url("../img/SWAT Factory.png");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-13 {
@@ -2163,4 +2163,10 @@ body {
 
 .rk-light-color {
   color: #787878;
+}
+
+.black-border {
+  border: 1px #000 solid;
+  padding: 1%;
+  margin: 1%;
 }
