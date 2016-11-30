@@ -2174,3 +2174,7 @@ body {
 .italics {
   font-style: italic;
 }
+
+.profile-image {
+  text-align: center;
+}
